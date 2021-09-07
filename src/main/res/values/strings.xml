@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Skillverse</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hlalefo_khalata">Hlalefo Khalata</string>
+    <string name="hlalef43526_gmail_com">hlalef43526@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit_rating">Submit Rating</string>
+</resources>
